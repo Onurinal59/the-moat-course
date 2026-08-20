@@ -1,0 +1,754 @@
+[
+  {
+    "num": "1",
+    "title": "Regression Toward the Mean by Quintile for U.S. Companies, 2013-2023",
+    "page": 3,
+    "file": "assets/exhibits/exhibit-1.png",
+    "w": 1384,
+    "h": 815,
+    "trTitle": "ABD Şirketlerinde Beşlide Ortalamaya Dönüş, 2013-2023",
+    "nasilOkunur": "Yatay eksen 2013-2023 yıllarını, dikey eksen her başlangıç ROIC beşlisinin medyan ROIC’sinin evren medyanından farkını yüzde puan olarak gösterir. En üst ve en alt beşlilerin çizgilerini zaman içinde sıfıra yaklaşırken izleyin; sıfır, şirket evreninin medyan ROIC’sidir.",
+    "cikarim": "Aşırı yüksek veya düşük ROIC’ler kalıcı varsayılmamalıdır; sonuçlar zamanla belirgin biçimde ortalamaya döner. Yatırım tezinde avantajın kalıcılığı ayrıca sınanmalıdır.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p1-m3"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "2",
+    "title": "Anticipated Value Creation for the S&P 500, 1961-2024",
+    "page": 4,
+    "file": "assets/exhibits/exhibit-2.png",
+    "w": 1384,
+    "h": 832,
+    "trTitle": "S&P 500 için Beklenen Değer Yaratımı, 1961-2024",
+    "nasilOkunur": "Yatay eksen 1961-2024 dönemini, dikey eksen hisse fiyatındaki beklenen değer yaratımını yüzde olarak gösterir. Ortalama çizgisi ile iki standart sapma bantlarına bakın; yüksek değerler fiyatın gelecekteki performansa daha çok dayandığını anlatır.",
+    "cikarim": "S&P 500 fiyatının ortalamada yaklaşık üçte biri gelecekte beklenen değer yaratımını içerir. Beklentiler çok yükseldiğinde ya da düştüğünde, küçük bir strateji değişimi bile değerlemeyi güçlü biçimde etkileyebilir.",
+    "kaynak": "Counterpoint Global, S&P Dow Jones Indices, Aswath Damodaran ve St. Louis Fed FRED verileri",
+    "moduller": [
+      "p1-m4"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "3",
+    "title": "Relationship between Expectations and Competitive Strategy",
+    "page": 5,
+    "file": "assets/exhibits/exhibit-3.png",
+    "w": 1384,
+    "h": 660,
+    "trTitle": "Beklentiler ile Rekabet Stratejisi Arasındaki İlişki",
+    "nasilOkunur": "Okları saat yönünde izleyin: piyasanın değer yaratım beklentileri, sektör analizi ve şirket analiziyle sınanır; bunlar beklenti revizyonu olasılığını doğurur. Bu bir nicel eksen grafiği değil, analiz akışını gösteren bir döngüdür.",
+    "cikarim": "Yatırım fırsatı, piyasanın beklentileri ile sektör ve şirket temellerinin işaret ettiği sonuç arasındaki farktan doğar. Rekabet stratejisi analizi, bu farkın kalıcı mı yoksa geçici mi olduğunu anlamaya yarar.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p1-m4"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "4",
+    "title": "Distribution of Morningstar’s Economic Moat Ratings, June 2002-June 2024",
+    "page": 6,
+    "file": "assets/exhibits/exhibit-4.png",
+    "w": 1384,
+    "h": 849,
+    "trTitle": "Morningstar Ekonomik Hendek Derecelendirmelerinin Dağılımı, Haziran 2002-Haziran 2024",
+    "nasilOkunur": "Yatay eksen yılları, dikey eksen Morningstar tarafından değerlendirilen şirketlerin payını gösterir. Yığılmış alanlarda geniş, dar ve hendeksiz şirketlerin her yıl toplam içindeki oranını okuyun; en üstteki geniş hendek alanına özellikle bakın.",
+    "cikarim": "Geniş hendekli şirketler azınlıktadır; 2024’te değerlendirilen 1.600’den fazla şirketin yaklaşık yüzde 17’si bu sınıftadır. Sürdürülebilir üstün getiri, yaygın değil istisnai bir özelliktir.",
+    "kaynak": "Counterpoint Global ve Morningstar Direct verileri",
+    "moduller": [
+      "p1-m1"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "5",
+    "title": "ROIC minus WACC for U.S. Industries, 2023",
+    "page": 8,
+    "file": "assets/exhibits/exhibit-5.png",
+    "w": 1384,
+    "h": 1294,
+    "trTitle": "ABD Sektörlerinde ROIC Eksi WACC, 2023",
+    "nasilOkunur": "Üstteki panel sektörlerin medyan ROIC−WACC farkını yüzde olarak sıralar; alttaki küçük paneller ise aynı sektörlerdeki şirketlerin tek tek farklarını gösterir. Sıfır çizgisinin üstü ekonomik değer yaratımını, altı değer tahribini ifade eder.",
+    "cikarim": "Sektör ortalaması önemlidir ama şirketin kaderini belirlemez: değer yaratan sektörlerde de zayıf, değer tahrip eden sektörlerde de güçlü şirketler bulunur. Şirket düzeyinde avantajı ayrıca analiz etmek gerekir.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p1-m2"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "6",
+    "title": "Results of Dynamic Life Cycle Analysis, 1985 to 2023",
+    "page": 10,
+    "file": "assets/exhibits/exhibit-6.png",
+    "w": 1385,
+    "h": 1041,
+    "trTitle": "Dinamik Yaşam Döngüsü Analizi Sonuçları, 1985-2023",
+    "nasilOkunur": "Sütunlar sektör yaşam döngüsünün giriş, büyüme, olgunluk, sarsılma ve gerileme aşamalarını karşılaştırır. Grafik ve alttaki tabloda her aşamanın ROIC’sini, yaşını, satış büyümesini ve örneklem içindeki payını birlikte okuyun.",
+    "cikarim": "ROIC yaşam döngüsüyle birlikte değişir: büyüme ve olgunluk aşamalarında yüksek, giriş ve gerilemede düşüktür. Şirketin aşaması, beklenen getiri ve büyümenin yorumunda kritik bağlam sağlar.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p1-m6"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "7",
+    "title": "Supply and Demand Curves and Competitive Equilibrium",
+    "page": 11,
+    "file": "assets/exhibits/exhibit-7.png",
+    "w": 1384,
+    "h": 827,
+    "trTitle": "Arz-Talep Eğrileri ve Rekabetçi Denge",
+    "nasilOkunur": "Dikey eksen fiyatı, yatay eksen miktarı gösterir; arz ve talep eğrilerinin kesişimi rekabetçi fiyat ve miktardır. Mavi üçgen, müşterilerin ödeme isteği ile ödedikleri fiyat arasındaki tüketici rantını gösterir.",
+    "cikarim": "Tam rekabette fiyat marjinal maliyete yaklaşır ve üretici ekonomik kârı oluşmaz. Stratejinin amacı, bu dengeyi sürdürülebilir biçimde şirket lehine değiştirecek avantajı bulmaktır.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p1-m7"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "8",
+    "title": "Supply and Demand Curves and Competitive Equilibrium",
+    "page": 12,
+    "file": "assets/exhibits/exhibit-8.png",
+    "w": 1384,
+    "h": 828,
+    "trTitle": "Piyasa Gücü Altında Arz-Talep ve Denge",
+    "nasilOkunur": "Dikey eksen fiyatı, yatay eksen miktarı gösterir; piyasa gücüyle fiyat rekabetçi seviyenin üstüne, miktar ise altına çıkar. Gri dikdörtgen şirket kârını, koyu mavi üçgen ise gerçekleşmeyen işlemlerden doğan refah kaybını gösterir.",
+    "cikarim": "Piyasa gücü şirket için ekonomik kâr yaratırken tüketici rantının bir kısmını transfer eder ve toplam refah kaybı doğurur. Değer yaratımı, ödeme isteğini yükseltmek veya maliyeti düşürmekle de sağlanabilir.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p1-m7"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "9",
+    "title": "Map of U.S. Airline Industry",
+    "page": 14,
+    "file": "assets/exhibits/exhibit-9.png",
+    "w": 1384,
+    "h": 1137,
+    "trTitle": "ABD Havayolu Sektörü Haritası",
+    "nasilOkunur": "Ortadaki havayollarını, çevresindeki tedarikçi, müşteri/aracı, düzenleyici, işgücü ve tamamlayıcı kutularıyla birlikte okuyun. Bağlantılar; jet yakıtı, havalimanı, dağıtım sistemleri, seyahat aracıları ve devletin sektör ekonomisini nasıl etkilediğini gösterir.",
+    "cikarim": "Sektör kârı yalnızca doğrudan rakiplerden değil, değer sistemindeki çok sayıda aktörden etkilenir. Industry map, rekabet baskısının ve bilgi aktarımının nereden gelebileceğini görünür kılar.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p1-m9"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "10",
+    "title": "Aviation Industry Profit Pool by Activity, 2022",
+    "page": 15,
+    "file": "assets/exhibits/exhibit-10.png",
+    "w": 1384,
+    "h": 866,
+    "trTitle": "Faaliyet Bazında Havacılık Sektörü Kâr Havuzu, 2022",
+    "nasilOkunur": "Yatay eksen faaliyetin sektör yatırılmış sermayesindeki payını, dikey eksen ROIC−WACC farkını yüzde puan olarak gösterir. Her faaliyetin yatay genişliği sermaye büyüklüğünü, dikey konumu değer yaratıp yaratmadığını anlatır; alan yaklaşık ekonomik kârı temsil eder.",
+    "cikarim": "2022’de havayolları ve havalimanları büyük sermaye kullansa da negatif ekonomik kâr üretmiştir; toplam havacılık kâr havuzu negatiftir. Analiz, sermayenin nerede yoğunlaştığı kadar getirinin nerede oluştuğunu da aramayı gerektirir.",
+    "kaynak": "Counterpoint Global; IATA havacılık değer zinciri analizi verileri",
+    "moduller": [
+      "p1-m10"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "11",
+    "title": "Profit Pool – U.S. Airline Industry by Company",
+    "page": 16,
+    "file": "assets/exhibits/exhibit-11.png",
+    "w": 1384,
+    "h": 1131,
+    "trTitle": "Şirket Bazında ABD Havayolu Sektörü Kâr Havuzu",
+    "nasilOkunur": "2013, 2018 ve 2023 panellerinde şirketlerin yatay genişliği sektördeki yatırılmış sermaye payını, dikey konumu ROIC−WACC farkını gösterir. Büyük dört havayolunun genişliklerine ve sıfır çizgisinin üzerindeki ya da altındaki konumlarına odaklanın.",
+    "cikarim": "Sektör konsolidasyonu büyük dört şirketin sermaye payını artırmıştır, ancak ekonomik kâr dönemler arasında değişkendir. Aynı sektör içinde şirketler arasında önemli sonuç farkları görülebilir.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p1-m10"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "12",
+    "title": "ROIC and ROIC – WACC for the U.S. Airline Industry, 1963-2023",
+    "page": 17,
+    "file": "assets/exhibits/exhibit-12.png",
+    "w": 1384,
+    "h": 730,
+    "trTitle": "ABD Havayolu Sektöründe ROIC ve ROIC−WACC, 1963-2023",
+    "nasilOkunur": "Yatay eksen 1963-2023 yıllarını, dikey eksen yüzde cinsinden ROIC ve ROIC−WACC’ı gösterir. ROIC−WACC çizgisinin sıfırın hangi tarafında ve ne kadar süre kaldığına bakın; bu, sektörün değer yaratıp yaratmadığını gösterir.",
+    "cikarim": "ABD havayolu sektörü uzun dönemde tutarlı biçimde pozitif ROIC−WACC farkı üretememiştir. Yüksek görünen ROIC tek başına yeterli değildir; sermaye maliyetiyle karşılaştırmak şarttır.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p1-m10"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "13",
+    "title": "Measure of Market Share Instability",
+    "page": 18,
+    "file": "assets/exhibits/exhibit-13.png",
+    "w": 1384,
+    "h": 1134,
+    "trTitle": "Pazar Payı İstikrarsızlığı Ölçüsü",
+    "nasilOkunur": "Her sektör tablosu şirketlerin 2018 ve 2023 pazar paylarını ve beş yıllık mutlak değişimini verir. En alttaki ortalama mutlak değişim satırı, şirket bazındaki pay değişimlerinin ortalamasıdır; sektörleri bu satırdan karşılaştırın.",
+    "cikarim": "Düşük ortalama mutlak değişim daha istikrarlı rekabet konumuna işaret eder. Sektörün toplamı her iki yılda da yüzde 100 olsa bile payların şirketler arasında yeniden dağılıp dağılmadığı asıl bilgidir.",
+    "kaynak": "Counterpoint Global, Good Car Bad Car ve Statcounter verileri",
+    "moduller": [
+      "p1-m11"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "14",
+    "title": "Market Share Instability Analysis – U.S. Airline Industry, 2018-2023",
+    "page": 19,
+    "file": "assets/exhibits/exhibit-14.png",
+    "w": 1384,
+    "h": 626,
+    "trTitle": "ABD Havayolu Sektöründe Pazar Payı İstikrarsızlığı, 2018-2023",
+    "nasilOkunur": "Tablo her havayolunun 2018 ve 2023 iç hat gelir yolcu-mili pazar payını ve mutlak değişimini gösterir. En alttaki yüzde 1 ortalama mutlak değişim, sektörün beş yıllık istikrarsızlık ölçüsüdür.",
+    "cikarim": "ABD havayolu pazar payları 2018-2023 arasında görece istikrarlıdır. Kural olarak yüzde 2’nin altındaki beş yıllık değişim, daha sakin rekabet koşullarına işaret eder.",
+    "kaynak": "Counterpoint Global ve ABD Ulaştırma İstatistikleri Bürosu verileri",
+    "moduller": [
+      "p1-m11"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "15",
+    "title": "Market Share Instability Analysis for the U.S. Airline Industry, 1974-2023",
+    "page": 19,
+    "file": "assets/exhibits/exhibit-15.png",
+    "w": 1384,
+    "h": 631,
+    "trTitle": "ABD Havayolu Sektöründe Pazar Payı İstikrarsızlığı, 1974-2023",
+    "nasilOkunur": "Yatay eksen yılları, dikey eksen pazar payı istikrarsızlığını yüzde olarak gösterir. Üç ve beş yıllık geriye dönük serileri karşılaştırın; ani yükselişler payların hızla yer değiştirdiği dönemleri belirtir.",
+    "cikarim": "Deregülasyon ve 11 Eylül sonrası gibi şoklar istikrarsızlığı artırmıştır; daha düşük istikrarsızlık dönemleri daha iyi ekonomik kârla eşleşmiştir. Ancak COVID-19 sonrasında üç yıllık göstergedeki sıçrama rekabet koşullarının yeniden değiştiğini gösterir.",
+    "kaynak": "Counterpoint Global ve ABD Ulaştırma İstatistikleri Bürosu verileri",
+    "moduller": [
+      "p1-m11"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "16",
+    "title": "Industry Structure and Strategic Opportunities",
+    "page": 21,
+    "file": "assets/exhibits/exhibit-16.png",
+    "w": 1384,
+    "h": 1199,
+    "trTitle": "Sektör Yapısı ve Stratejik Fırsatlar",
+    "nasilOkunur": "Sol sütun gelişen, büyüyen, olgun, gerileyen, parçalı ve ağ-temelli sektör yapılarını listeler; sağ sütun her yapı için uygun stratejik hamleleri verir. Önce sektörü doğru sınıflandırın, sonra aynı satırdaki fırsatları değerlendirin.",
+    "cikarim": "Tek bir strateji her sektör aşamasına uymaz. Değer yaratacak hamle, sektörün gelişim ve rekabet yapısına göre seçilmelidir.",
+    "kaynak": "Counterpoint Global; Jay Barney, Michael Porter ve Kathryn Rudie Harrigan çalışmalarına dayalı",
+    "moduller": [
+      "p1-m13"
+    ],
+    "bolum": "p1"
+  },
+  {
+    "num": "17",
+    "title": "Five Forces That Shape Industry Structure",
+    "page": 22,
+    "file": "assets/exhibits/exhibit-17.png",
+    "w": 1384,
+    "h": 798,
+    "trTitle": "Sektör Yapısını Belirleyen Beş Güç",
+    "nasilOkunur": "Her satır bir rekabet gücünü, onun kârlılık üzerindeki riskini ve olası azaltıcı hamleyi verir. Yeni giriş tehdidi, mevcut rakipler arası rekabet, tedarikçi ve alıcı gücü ile ikame tehdidini ayrı ayrı tarayın.",
+    "cikarim": "Sektörün uzun dönem kârlılığı tek bir rakipten değil, beş gücün bileşiminden doğar. Analiz yalnız riski değil, şirketin hangi karşı hamleyle marjını koruyabileceğini de içermelidir.",
+    "kaynak": "Counterpoint Global; Michael E. Porter çerçevesine dayalı",
+    "moduller": [
+      "p2-m1"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "18",
+    "title": "Establishment Entry and Exit Rates, 1978-2022 (U.S.)",
+    "page": 24,
+    "file": "assets/exhibits/exhibit-18.png",
+    "w": 1384,
+    "h": 668,
+    "trTitle": "İşyeri Giriş ve Çıkış Oranları, 1978-2022 (ABD)",
+    "nasilOkunur": "Yatay eksen yılları, dikey eksen işyeri giriş ve çıkışlarının oranını yüzde olarak gösterir. İki çizginin düzeyini ve zaman içindeki birlikte hareketini takip edin; işyeri tek bir fiziksel işletme konumudur.",
+    "cikarim": "ABD’de giriş ve çıkış zaman içinde birlikte gerilemiştir. Giriş-çıkış oranları, bir sektörün rekabetçi dinamizmini ve yeni oyunculara açıklığını değerlendirmede yararlı başlangıç göstergeleridir.",
+    "kaynak": "Counterpoint Global ve ABD Nüfus Sayım Bürosu Business Dynamics Statistics verileri",
+    "moduller": [
+      "p2-m5"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "19",
+    "title": "Entry and Exit Rates by Sector, Annual Averages, 1978-2022 (U.S.)",
+    "page": 25,
+    "file": "assets/exhibits/exhibit-19.png",
+    "w": 1384,
+    "h": 749,
+    "trTitle": "Sektöre Göre Giriş ve Çıkış Oranları: Yıllık Ortalamalar, 1978-2022 (ABD)",
+    "nasilOkunur": "Her nokta bir sektördür; yatay eksen çıkış oranını, dikey eksen giriş oranını yüzde olarak gösterir. Noktaların 45 derece doğrultusunda kümelenmesine ve inşaat ile kamu hizmetleri gibi uç örneklere bakın.",
+    "cikarim": "Giriş ve çıkış oranları arasında çok güçlü pozitif ilişki vardır. Yüksek girişli sektörler her zaman kolay kâr anlamına gelmez; yoğun çıkış da rekabetin sertliğine işaret edebilir.",
+    "kaynak": "Counterpoint Global ve ABD Nüfus Sayım Bürosu Business Dynamics Statistics verileri",
+    "moduller": [
+      "p2-m5"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "20",
+    "title": "1- and 5-Year Survival Rates for U.S. Establishments by Birth Year, 1978-2022",
+    "page": 25,
+    "file": "assets/exhibits/exhibit-20.png",
+    "w": 1387,
+    "h": 688,
+    "trTitle": "ABD İşyerlerinde Doğum Yılına Göre 1 ve 5 Yıllık Yaşam Oranları, 1978-2022",
+    "nasilOkunur": "Yatay eksen işyerinin doğum yılını, dikey eksen hayatta kalma oranını yüzde olarak gösterir. Her yıl için 1 yıllık ve 5 yıllık serileri karşılaştırın; aralarındaki fark ilk yıllardaki elenme oranını gösterir.",
+    "cikarim": "İşyerlerinin ortalamada yaklaşık yüzde 80’i ilk yılı, yaklaşık yüzde 50’si beş yılı tamamlar. Yeni giriş kararlarında başarı hikâyelerinden çok bu temel başarısızlık oranı dikkate alınmalıdır.",
+    "kaynak": "Counterpoint Global ve ABD Nüfus Sayım Bürosu Business Dynamics Statistics verileri",
+    "moduller": [
+      "p2-m5"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "21",
+    "title": "U.S. Airline Industry Entry and Exit, 1978-2003",
+    "page": 26,
+    "file": "assets/exhibits/exhibit-21.png",
+    "w": 1384,
+    "h": 828,
+    "trTitle": "ABD Havayolu Sektöründe Giriş ve Çıkış, 1978-2003",
+    "nasilOkunur": "Yatay eksen 1978-2003 yıllarını, dikey eksen şirket sayısını gösterir. Toplam şirket sayısı, girişler ve çıkışlar serilerini birlikte okuyun; 1978 deregülasyonu sonrasındaki giriş dalgasına odaklanın.",
+    "cikarim": "Deregülasyon yeni girişleri artırdı ancak bu yeni oyuncuların çoğu başarısız oldu. Giriş engellerinin gevşemesi tek başına yeni şirketlerin kalıcı değer yaratacağı anlamına gelmez.",
+    "kaynak": "Counterpoint Global ve William A. Jordan’ın havayolu giriş verileri",
+    "moduller": [
+      "p2-m5"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "22",
+    "title": "A Decision Tree to Assess Entrance into an Industry",
+    "page": 27,
+    "file": "assets/exhibits/exhibit-22.png",
+    "w": 1384,
+    "h": 781,
+    "trTitle": "Bir Sektöre Girişi Değerlendirme Karar Ağacı",
+    "nasilOkunur": "İlk karar düğümü girme ya da girmeme seçimidir; girilirse mevcut oyuncuların mücadele etme olasılığı x, uyum sağlama olasılığı 1−x olarak ayrılır. Her dalın sonunda kalma veya çıkış getirileri (Payoff 1-4) yer alır; olasılıklı getirileri karşılaştırın.",
+    "cikarim": "Giriş kararı, yalnız pazarın cazibesine değil mevcut oyuncuların tepki olasılığına ve buna bağlı beklenen getiriye dayanmalıdır. Beklenen değer pozitif değilse rasyonel seçim girmemektir.",
+    "kaynak": "Counterpoint Global; Sharon M. Oster çerçevesine dayalı",
+    "moduller": [
+      "p2-m5"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "23",
+    "title": "Minimum Efficient Scale",
+    "page": 28,
+    "file": "assets/exhibits/exhibit-23.png",
+    "w": 1384,
+    "h": 720,
+    "trTitle": "Asgari Etkin Ölçek",
+    "nasilOkunur": "Dikey eksen birim maliyeti, yatay eksen üretim miktarını gösterir. Eğrinin hızla düşüp yataylaştığı bölge asgari etkin ölçeği belirtir; bu noktadan sonra hacim artışı birim maliyeti çok az düşürür.",
+    "cikarim": "Yeni giren şirket, maliyet bakımından rekabet edebilmek için anlamlı pazar payına ulaşmak zorunda olabilir. Asgari etkin ölçeğin büyük olması güçlü bir arz tarafı giriş engelidir.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p2-m6"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "24",
+    "title": "Clayton Christensen’s Model of Disruptive Innovation",
+    "page": 34,
+    "file": "assets/exhibits/exhibit-24.png",
+    "w": 1384,
+    "h": 864,
+    "trTitle": "Clayton Christensen’ın Yıkıcı İnovasyon Modeli",
+    "nasilOkunur": "Yatay eksen zamanı, dikey eksen performansı gösterir. Yukarıdaki sürdürücü inovasyon ve aşağıdaki yıkıcı inovasyon eğrilerinin, müşteri ihtiyaçlarının gelişimini nasıl aştığına bakın.",
+    "cikarim": "Yerleşik şirketler ana müşterilerin ihtiyaçlarında rekabet ederken, yıkıcı teklifler başlangıçta düşük uçta veya ana pazar dışında görünür. Tehdit, teklifin zamanla müşteri gereksinimlerini karşılayacak kadar iyileşmesiyle büyür.",
+    "kaynak": "Counterpoint Global; Clayton M. Christensen modeline dayalı",
+    "moduller": [
+      "p2-m14"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "25",
+    "title": "Disruptive Innovation Categories and Characteristics",
+    "page": 36,
+    "file": "assets/exhibits/exhibit-25.png",
+    "w": 1384,
+    "h": 994,
+    "trTitle": "Yıkıcı İnovasyon Türleri ve Özellikleri",
+    "nasilOkunur": "Sütunlar sürdürücü inovasyonu, düşük uç yıkımını ve yeni pazar yıkımını karşılaştırır; satırlar müşteri, teknoloji, iş modeli ve yerleşik oyuncu tepkisidir. Özellikle hedef müşteriyi ve yerleşiğin motive olduğu tepkiyi birlikte okuyun.",
+    "cikarim": "Düşük uç yıkımı aşırı hizmet alan müşteriye daha düşük fiyatta yeterli performans sunarken, yeni pazar yıkımı tüketici olmayanları hedefler. Yerleşiklerin düşük uçtan kaçmaya, yeni pazarı ise görmezden gelmeye teşvikli olması savunmasızlık yaratır.",
+    "kaynak": "Counterpoint Global; Clayton M. Christensen ve Michael E. Raynor çalışmalarına dayalı",
+    "moduller": [
+      "p2-m15"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "26",
+    "title": "Dis-Integration of the Computer Industry",
+    "page": 38,
+    "file": "assets/exhibits/exhibit-26.png",
+    "w": 1384,
+    "h": 874,
+    "trTitle": "Bilgisayar Sektörünün Ayrışması",
+    "nasilOkunur": "Solda 1980’deki dikey bilgisayar sektöründe değer zinciri faaliyetlerinin aynı şirket içinde toplandığını, sağda 1995’teki yatay yapıda her katmanda uzmanlaşmış şirketleri görün. Satış/dağıtım, yazılım, işletim sistemi, montaj ve yarı iletken katmanlarını iki tarih arasında karşılaştırın.",
+    "cikarim": "Modülerleşme, entegre değer zincirini uzman şirketlerin olduğu yatay bir yapıya dönüştürebilir. Bu dönüşüm, kâr havuzunu ve rekabet avantajının hangi katmanda oluştuğunu değiştirir.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p2-m18"
+    ],
+    "bolum": "p2"
+  },
+  {
+    "num": "27",
+    "title": "The Value Stick Reveals Value Creation",
+    "page": 40,
+    "file": "assets/exhibits/exhibit-27.png",
+    "w": 1384,
+    "h": 882,
+    "trTitle": "Değer Çubuğu Değer Yaratımını Gösterir",
+    "nasilOkunur": "Dikey çubuk yukarıdan aşağıya ödeme isteği (WTP), fiyat, maliyet ve satma isteğini (WTS) sıralar. Fiyat ile maliyet arasındaki bölüm şirket değer yaratımını; diğer bölümler tüketici ve tedarikçi rantını gösterir.",
+    "cikarim": "Şirket kârı, geniş toplam değerin yalnızca bir parçasıdır. Sürdürülebilir strateji, WTP’yi artırarak veya maliyet/WTS’yi düşürerek paylaşılabilir toplam değeri büyütür.",
+    "kaynak": "Felix Oberholzer-Gee’nin çerçevesine dayalı Counterpoint Global",
+    "moduller": [
+      "p3-m1"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "28",
+    "title": "The Value Chain for the Airline Industry",
+    "page": 42,
+    "file": "assets/exhibits/exhibit-28.png",
+    "w": 1384,
+    "h": 1136,
+    "trTitle": "Havayolu Sektörü Değer Zinciri",
+    "nasilOkunur": "Şema destek faaliyetlerini (altyapı, insan kaynakları, teknoloji, tedarik) ve birincil faaliyetleri (girdi lojistiği, operasyon, çıktı lojistiği, pazarlama/satış, hizmet) sıralar. Her kutudaki somut havayolu örneği, değerin veya maliyetin hangi faaliyette oluştuğunu düşündürür.",
+    "cikarim": "Rekabet avantajı tek bir genel kavram değil, değer zincirindeki somut faaliyetlerin bileşimidir. Analiz, her faaliyetin WTP’yi artırıp artırmadığını ya da maliyeti düşürüp düşürmediğini sorgulamalıdır.",
+    "kaynak": "Counterpoint Global; Michael E. Porter değer zinciri çerçevesine dayalı",
+    "moduller": [
+      "p3-m2"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "29",
+    "title": "How to Create Value on the Value Stick",
+    "page": 43,
+    "file": "assets/exhibits/exhibit-29.png",
+    "w": 1384,
+    "h": 882,
+    "trTitle": "Değer Çubuğunda Değer Nasıl Yaratılır",
+    "nasilOkunur": "Değer çubuğunun üstünde WTP’yi artıran kaldıraçlar—network etkileri, tamamlayıcılar, ürün ve hizmetler—yer alır. Altında maliyet ve WTS’yi düşüren daha düşük tedarik maliyeti, verimlilik ve çalışan ilişkileri gösterilir.",
+    "cikarim": "Şirketler değeri iki ana kanaldan yaratır: müşterinin ödeme isteğini artırmak ve tedarik/üretim tarafındaki maliyeti azaltmak. Farklılaşma ve maliyet liderliği bu kanalların pratik karşılıklarıdır.",
+    "kaynak": "Counterpoint Global; Felix Oberholzer-Gee çerçevesine dayalı",
+    "moduller": [
+      "p3-m3"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "30",
+    "title": "Demand-Side Economies of Scale",
+    "page": 43,
+    "file": "assets/exhibits/exhibit-30.png",
+    "w": 1384,
+    "h": 621,
+    "trTitle": "Talep Tarafı Ölçek Ekonomileri",
+    "nasilOkunur": "Yatay eksen kullanıcı sayısını, dikey eksen müşterinin ödeme isteğini gösterir. Yukarı eğimli eğri, kullanıcı sayısı arttıkça ürünün her kullanıcı için değerinin yükseldiğini anlatır.",
+    "cikarim": "Network etkisi, talep tarafı ölçek ekonomisidir: daha büyük kullanıcı tabanı daha yüksek WTP yaratabilir. Bu durum hem fiyatlama gücü hem de giriş engeli sağlayabilir.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p3-m3"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "31",
+    "title": "Types of Lock-In and Associated Switching Costs",
+    "page": 46,
+    "file": "assets/exhibits/exhibit-31.png",
+    "w": 1387,
+    "h": 589,
+    "trTitle": "Kilitleme Türleri ve İlgili Geçiş Maliyetleri",
+    "nasilOkunur": "Sol sütun marka sadakati, uyumluluk, sözleşme, veri, ağ etkisi ve arama maliyeti gibi kilitleme türlerini sıralar. Sağ sütun her türün müşterinin karşılaştığı para, zaman, risk veya verimlilik kaybı biçimindeki somut maliyetini açıklar.",
+    "cikarim": "Geçiş maliyeti yalnızca fesih bedeli değildir; öğrenme, veri taşıma, ağdan kopma ve arama maliyeti de müşteriyi bağlar. Güçlü kilitleme, rakibin müşteri kazanmak için katlanacağı maliyeti de yükseltir.",
+    "kaynak": "Counterpoint Global; Carl Shapiro ve Hal R. Varian çalışmalarına dayalı",
+    "moduller": [
+      "p3-m4"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "32",
+    "title": "Where Barriers to Entry Appear on the Value Stick",
+    "page": 51,
+    "file": "assets/exhibits/exhibit-32.png",
+    "w": 1384,
+    "h": 754,
+    "trTitle": "Giriş Engelleri Değer Çubuğunun Neresinde Ortaya Çıkar?",
+    "nasilOkunur": "Sol sütun giriş engelinin kaynağını, sağ sütun ise avantajın değer çubuğunda WTP, maliyet veya WTS üzerinde nerede göründüğünü eşler. Her satırda engelin hangi ekonomik kâr kanalını açtığını okuyun.",
+    "cikarim": "Giriş engelleri soyut etiketler değildir; WTP’yi yükseltme, maliyeti/WTS’yi düşürme gibi ölçülebilir ekonomik sonuçlara dönüşür. Analist, savunulan avantajın kâr mekanizmasını açıkça belirtmelidir.",
+    "kaynak": "Counterpoint Global; Joan Magretta çerçevesine dayalı",
+    "moduller": [
+      "p3-m5"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "33",
+    "title": "Traditional and Adjusted Drivers of ROIC, Top 500 U.S. Companies by Sales, 2023",
+    "page": 53,
+    "file": "assets/exhibits/exhibit-33.png",
+    "w": 1384,
+    "h": 1108,
+    "trTitle": "Geleneksel ve Düzeltilmiş ROIC Sürücüleri: Satışa Göre En Büyük 500 ABD Şirketi, 2023",
+    "nasilOkunur": "Yatay eksen NOPAT marjını yüzde, dikey eksen yatırılmış sermaye devrini kat olarak gösterir; daireler geleneksel, üçgenler maddi olmayan varlıklar için düzeltilmiş ölçümdür. Sol üstte maliyet liderliği, sağ altta farklılaşma örüntüsüne ve aynı şirketin iki ölçüm arasındaki kaymasına bakın.",
+    "cikarim": "ROIC, marj ve sermaye devrinin çarpımından gelir; yüksek ROIC’ye farklı stratejilerle ulaşılabilir. Maddi olmayan yatırımı düzeltmek uç ROIC değerlerini merkeze çeker.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p3-m6"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "34",
+    "title": "Companies with the Same ROICs but Different Advantages, 2023",
+    "page": 53,
+    "file": "assets/exhibits/exhibit-34.png",
+    "w": 1384,
+    "h": 553,
+    "trTitle": "Aynı ROIC’ye Sahip, Farklı Avantajlara Dayanan Şirketler, 2023",
+    "nasilOkunur": "Her satır aynı ROIC düzeyindeki iki şirketi karşılaştırır: solda maliyet lideri, sağda farklılaşan şirket vardır. NOPAT marjı yüzde, yatırılmış sermaye devri kat olarak verilmiştir; aynı ROIC’nin hangi iki bileşenden geldiğini karşılaştırın.",
+    "cikarim": "Aynı ROIC, aynı rekabet avantajı demek değildir. Costco gibi yüksek devirli-düşük marjlı ve Coca-Cola gibi yüksek marjlı-düşük devirli modeller aynı sonucu farklı mekanizmalarla üretebilir.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p3-m6"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "35",
+    "title": "Drivers of ROIC for Pairs of Companies in Similar Businesses, 2023",
+    "page": 54,
+    "file": "assets/exhibits/exhibit-35.png",
+    "w": 1384,
+    "h": 993,
+    "trTitle": "Benzer İşlerdeki Şirket Çiftleri için ROIC Sürücüleri, 2023",
+    "nasilOkunur": "Yatay eksen NOPAT marjını yüzde, dikey eksen yatırılmış sermaye devrini kat olarak verir; noktalar benzer işlerdeki şirketleri gösterir. Eğri yaklaşık sermaye maliyetine eşit ROIC kombinasyonlarını temsil eder; eğrinin üstü pozitif ROIC−WACC farkıdır.",
+    "cikarim": "Aynı iş kolunda dahi şirketlerin değer yaratımı marj ve devir bileşimleri nedeniyle ayrışabilir. Benzer rakipleri ortak bir ROIC eşiğine göre kıyaslamak, avantajın kaynağını görünür kılar.",
+    "kaynak": "Counterpoint Global ve FactSet verileri",
+    "moduller": [
+      "p3-m6"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "36",
+    "title": "Pricing and the Prisoner’s Dilemma",
+    "page": 59,
+    "file": "assets/exhibits/exhibit-36.png",
+    "w": 1384,
+    "h": 761,
+    "trTitle": "Fiyatlama ve Mahkûmun İkilemi",
+    "nasilOkunur": "Satırlar Havayolu A’nın, sütunlar Havayolu B’nin 220 veya 200 dolarlık fiyat seçimini gösterir. Her hücrede çaprazın iki yanında iki şirketin getirileri vardır; rakibin seçimine karşı daha iyi getiriyi ve denge hücresini karşılaştırın.",
+    "cikarim": "Her iki şirket için düşük fiyat tek taraflı olarak cazip olduğundan Nash dengesi düşük fiyat-düşük fiyattır, oysa iki şirket de yüksek fiyatla daha çok kazanırdı. Rekabetçi fiyatlama, şirketleri kolektif olarak daha kötü sonuca kilitleyebilir.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p3-m8"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "37",
+    "title": "Simple Example of the Colonel Blotto Game",
+    "page": 60,
+    "file": "assets/exhibits/exhibit-37.png",
+    "w": 1384,
+    "h": 894,
+    "trTitle": "Colonel Blotto Oyununun Basit Örneği",
+    "nasilOkunur": "A ve B oyuncularının her biri 100 askeri üç savaş alanına dağıtır; alt tablo her alandaki tahsisleri ve kazananı verir. Toplam tahsis eşit olsa da her savaş alanındaki karşılaştırmaya bakın; B ilk iki alanı kazanarak genel galiptir.",
+    "cikarim": "Rekabet gücü yalnız toplam kaynaktan değil, kaynağın mücadele alanlarına nasıl dağıtıldığından doğar. Daha zayıf oyuncu savaş alanı sayısını artırarak eşleşme avantajı arayabilir.",
+    "kaynak": "Michael J. Mauboussin, The Success Equation",
+    "moduller": [
+      "p3-m8"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "38",
+    "title": "Evolution of Amazon's Competitive Frontiers",
+    "page": 62,
+    "file": "assets/exhibits/exhibit-38.png",
+    "w": 1384,
+    "h": 1137,
+    "trTitle": "Amazon’un Rekabet Cephelerinin Evrimi",
+    "nasilOkunur": "Sütunlar 1990’lardan 2020’lere, satır grupları Amazon’un kitap, genel perakende/e-ticaret, bulut, medya ve cihazlar gibi rekabet alanlarını gösterir. Her dönemde alanların ve karşısındaki rakip listesinin genişlemesine odaklanın.",
+    "cikarim": "Amazon’un komşu alanlara genişlemesi rekabet sınırlarını zaman içinde sürekli değiştirmiştir. Şirketlerin yeni pazarlara girişleri, mevcut rakiplerin stratejik tepkilerini ve değer yaratımını etkiler.",
+    "kaynak": "Counterpoint Global",
+    "moduller": [
+      "p3-m9"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "39",
+    "title": "Interbrand’s Best Global Brands (2024) and ROIC minus WACC (2023)",
+    "page": 63,
+    "file": "assets/exhibits/exhibit-39.png",
+    "w": 1384,
+    "h": 1062,
+    "trTitle": "Interbrand’in En İyi Küresel Markaları (2024) ve ROIC−WACC (2023)",
+    "nasilOkunur": "Yatay eksen Interbrand’in 2024 marka sıralamasını, dikey eksen 2023 ROIC−WACC farkını yüzde olarak gösterir. Marka sırasının daha yüksek ekonomik getiriyle düzenli bir ilişkisi olup olmadığına ve sıfır çizgisine göre konumlara bakın.",
+    "cikarim": "Marka gücü sıralaması ile ROIC−WACC arasındaki ilişki zayıftır. Marka ancak WTP’yi artırdığı veya WTS’yi düşürdüğü ölçüde somut bir rekabet avantajına dönüşür.",
+    "kaynak": "Counterpoint Global, Interbrand ve FactSet verileri",
+    "moduller": [
+      "p3-m10"
+    ],
+    "bolum": "p3"
+  },
+  {
+    "num": "40",
+    "title": "ROICs by Industry, Traditional and Adjusted, for U.S. Companies, 1963-2023",
+    "page": 70,
+    "file": "assets/exhibits/exhibit-40.png",
+    "w": 1384,
+    "h": 820,
+    "trTitle": "ABD Şirketlerinde Sektöre Göre Geleneksel ve Düzeltilmiş ROIC, 1963-2023",
+    "nasilOkunur": "Her sektör için geleneksel ve maddi olmayan varlıklar için düzeltilmiş ROIC dağılımının 20. yüzdelik, medyan ve 80. yüzdelik değerleri verilir. Sektör içindeki dikey aralığı sektör medyanları arasındaki farkla karşılaştırın.",
+    "cikarim": "Sektör içi ROIC farklılığı, sektörler arası farklılıktan daha büyüktür; sektör şirket kaderini tek başına belirlemez. Maddi olmayan varlık düzeltmesi uç sonuçları merkeze yaklaştırır.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p1-m2"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "41",
+    "title": "Distributions of ROICs for U.S. Companies, 1963-2023",
+    "page": 71,
+    "file": "assets/exhibits/exhibit-41.png",
+    "w": 1387,
+    "h": 753,
+    "trTitle": "ABD Şirketlerinde ROIC Dağılımları, 1963-2023",
+    "nasilOkunur": "İki dağılım, geleneksel ROIC ile maddi olmayan varlıklar için düzeltilmiş ROIC’yi aynı şirket evreni ve dönem için gösterir. Kuyrukların ve orta bölgenin genişliğini karşılaştırın; düzeltmenin aşırı değerleri nasıl değiştirdiğine bakın.",
+    "cikarim": "Maddi olmayan yatırımı hesaba katmak ROIC dağılımının uçlarını daraltır. Finansal performans karşılaştırmasında muhasebe ölçümünün tasarımı sonucu önemli ölçüde etkiler.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p1-m3"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "42",
+    "title": "Median ROIC by Quintile, Traditional and Adjusted, for U.S. Companies, 1963-2023",
+    "page": 72,
+    "file": "assets/exhibits/exhibit-42.png",
+    "w": 1384,
+    "h": 1136,
+    "trTitle": "ABD Şirketlerinde Beşliye Göre Medyan ROIC: Geleneksel ve Düzeltilmiş, 1963-2023",
+    "nasilOkunur": "Sol ve sağ paneller 1963-2023 boyunca ROIC beşlilerinin medyanını sırasıyla geleneksel ve düzeltilmiş hesaplamayla gösterir. Dikey eksen ölçeklerinin farklı olduğuna dikkat ederek en üst ve en alt beşlilerin açıklığını karşılaştırın.",
+    "cikarim": "Maddi olmayan varlık düzeltmesi en yüksek ve en düşük ROIC’leri ılımlaştırır. Medyan/ortalama çok değişmese de uç sonuçlardan çıkarılan rekabet avantajı yorumu değişebilir.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p1-m3"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "43",
+    "title": "Aggregate Adjusted ROICs for U.S. Companies, 1963-2023",
+    "page": 72,
+    "file": "assets/exhibits/exhibit-43.png",
+    "w": 1384,
+    "h": 831,
+    "trTitle": "ABD Şirketleri için Toplam Düzeltilmiş ROIC, 1963-2023",
+    "nasilOkunur": "Yatay eksen 1963-2023 yıllarını, dikey eksen yüzde cinsinden toplam düzeltilmiş ROIC, WACC ve aralarındaki farkı gösterir. ROIC−WACC serisinin sıfır çizgisinin üzerinde veya altında kalmasına odaklanın.",
+    "cikarim": "Toplam ROIC−WACC farkı, şirket evreninin bir bütün olarak değer yaratıp yaratmadığını gösterir. ROIC yüksek görünse bile WACC ile farkı daraldığında ekonomik değer yaratımı zayıflar.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p3-m1"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "44",
+    "title": "Distribution of Economic Profit for U.S. Companies, 2019-2023",
+    "page": 73,
+    "file": "assets/exhibits/exhibit-44.png",
+    "w": 1384,
+    "h": 718,
+    "trTitle": "ABD Şirketlerinde Ekonomik Kâr Dağılımı, 2019-2023",
+    "nasilOkunur": "Yatay eksen şirketleri en düşükten en yükseğe ekonomik kâra göre onlu gruplara ayırır; dikey eksen yıllık ortalama ekonomik kârı 2023 ABD dolarıyla milyar cinsinden gösterir. En alt ve en üst onda birlik dilimlerin sütunlarına, ortadaki sekiz dilimle karşılaştırarak bakın.",
+    "cikarim": "Değer yaratımı ve tahribi uçlarda yoğunlaşır: en üst dilim yaklaşık 1,1 trilyon dolar, en alt dilim yaklaşık eksi 400 milyar dolar ekonomik kâr üretmiştir. Orta sekiz dilim kabaca değer nötrdür.",
+    "kaynak": "Counterpoint Global, FactSet, Moody’s, Aswath Damodaran ve St. Louis Fed verileri",
+    "moduller": [
+      "p3-m1"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "45",
+    "title": "Markups Without Intangible Adjustments for U.S. Companies, 1963-2023",
+    "page": 74,
+    "file": "assets/exhibits/exhibit-45.png",
+    "w": 1384,
+    "h": 689,
+    "trTitle": "ABD Şirketlerinde Maddi Olmayan Varlık Düzeltmesi Olmadan Fiyat Marjları, 1963-2023",
+    "nasilOkunur": "Yatay eksen 1963-2023 yıllarını, dikey eksen toplam fiyat marjını gösterir. Eğrinin 1981 civarındaki dipten 2023’e kadar yükselişini izleyin; ölçüm satışların malın maliyetine oranına dayanır.",
+    "cikarim": "Düzeltmesiz hesapta fiyat marjı yaklaşık 1,2’den 2023’te 1,6’nın üzerine çıkar. Ancak bu görünüm, maddi olmayan yatırımları maliyet saymadığı için piyasa gücünü olduğundan yüksek gösterebilir.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p3-m1"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "46",
+    "title": "Markups With Intangible Adjustments for U.S. Companies, 1963-2023",
+    "page": 74,
+    "file": "assets/exhibits/exhibit-46.png",
+    "w": 1384,
+    "h": 690,
+    "trTitle": "ABD Şirketlerinde Maddi Olmayan Varlık Düzeltmesiyle Fiyat Marjları, 1963-2023",
+    "nasilOkunur": "Yatay eksen 1963-2023 yıllarını, dikey eksen maddi olmayan yatırımlar maliyete eklendikten sonraki toplam fiyat marjını gösterir. Aynı dönemi düzeltmesiz seriyle karşılaştırırken seviyenin daha düşük olduğuna dikkat edin.",
+    "cikarim": "Düzeltilmiş seri de zamanla yükselir ancak 2023 seviyesi yaklaşık 1,4’tür ve düzeltmesiz serinin altındadır. Maddi olmayan yatırımları hesaba katmak, piyasa gücü ve ekonomik getiri yorumunu daha temkinli hale getirir.",
+    "kaynak": "Counterpoint Global, Compustat ve FactSet verileri",
+    "moduller": [
+      "p3-m1"
+    ],
+    "bolum": "ek"
+  },
+  {
+    "num": "47",
+    "title": "Entry, Exit, and Total Companies in the U.S. Automobile and PC Industries",
+    "page": 75,
+    "file": "assets/exhibits/exhibit-47.png",
+    "w": 1384,
+    "h": 774,
+    "trTitle": "ABD Otomobil ve Kişisel Bilgisayar Sektörlerinde Giriş, Çıkış ve Toplam Şirket Sayısı",
+    "nasilOkunur": "İki panel otomobil ve kişisel bilgisayar sektörlerinde yıllara göre toplam şirket sayısını, girişleri ve çıkışları gösterir. Önce giriş dalgasını, sonra toplam şirket sayısının tepe yapıp çıkışlarla birlikte gerilemesini izleyin.",
+    "cikarim": "Yeni sektörler önce çok sayıda deneme ve giriş, ardından ürün tasarımı olgunlaştıkça çıkış ve konsolidasyon yaşar. Sektör gelişimini değerlendirmek için yalnız büyümeye değil şirket sayısının evrimine de bakmak gerekir.",
+    "kaynak": "Counterpoint Global; Steven Klepper ve ilgili sektör verilerine dayalı",
+    "moduller": [
+      "p3-m12"
+    ],
+    "bolum": "p3"
+  }
+]
